@@ -1,3 +1,4 @@
 jajka 10.00
 maka 5.00
 mleko 7.00
+ryż 5.00
